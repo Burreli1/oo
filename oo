@@ -5,15 +5,6 @@
 #EXTINF:-1 tvg-id="" tvg-name="########## Albania ##########" tvg-logo="http://pici.life/albania.png" group-title="Albania",########## Albania ##########
 http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/4754
 #EXTINF:-1 tvg-id="" tvg-name="------- Main & Regional -------" tvg-logo="" group-title="Albania",------- Main & Regional -------
-http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/684829
-#EXTINF:-1 tvg-id="RTSH Sport AL" tvg-name="RTSH 1 HD AL" tvg-logo="http://pici.life/rtsh1_2.png" group-title="Albania",RTSH 1 HD AL
-http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/4849
-#EXTINF:-1 tvg-id="" tvg-name="RTSH 2 HD AL" tvg-logo="http://pici.life/AL/RTSH2%20HD.png" group-title="Albania",RTSH 2 HD AL
-http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/10105
-#EXTINF:-1 tvg-id="" tvg-name="RTSH 3 HD AL" tvg-logo="http://pici.life/AL/RTSH3_HD.png" group-title="Albania",RTSH 3 HD AL
-http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/14128
-#EXTINF:-1 tvg-id="" tvg-name="RTSH Shqip AL" tvg-logo="http://pici.life/AL/RTSH_Shqip.png" group-title="Albania",RTSH Shqip AL
-http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/14129
 #EXTINF:-1 tvg-id="rtk.al" tvg-name="RTK 1 HD AL" tvg-logo="http://pici.life/rtk1al_2.png" group-title="Albania",RTK 1 HD AL
 http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/4844
 #EXTINF:-1 tvg-id="rtk.al" tvg-name="RTK 1 [B] HD AL" tvg-logo="" group-title="Albania",RTK 1 [B] HD AL
