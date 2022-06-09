@@ -1,4 +1,4 @@
-À#EXTINF:-1   group-title="-IPTV SHQIP AnnA-",
+IÀ#EXTINF:-1   group-title="-IPTV SHQIP AnnA-",
 #EXTINF:-1,AL: 8OVA Gjurme Shqipetare TV
 http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13782
 #EXTINF:-1,AL: Top Channel
@@ -6,7 +6,7 @@ http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/
 #EXTINF:-1,AL: Klan TV
 http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13608
 #EXTINF:-1,AL: Klan Plus FHD
-http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/2562
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13610
 #EXTINF:-1,AL: Vizion Plus
 http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13611
 #EXTINF:-1,AL: Globi TV
@@ -7834,4 +7834,3 @@ https://livestream.palitra.ge/hls/palitratv/index.m3u8?checkedby:zaltv.co
 #EXTINF:0 tvg-country="GE" tvg-logo="https://i.imgur.com/9ecTETD.png" group-title="Georgia",Rioni TV
 http://video.rionitv.com:9090/hls/live/rioni.m3u8?checkedby:zaltv.co
 http://www.achoTV.com
-
