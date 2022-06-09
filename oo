@@ -7828,7 +7828,7 @@ https://livestream.palitra.ge/hls/palitratv/index.m3u8?checkedby:zaltv.co
 http://video.rionitv.com:9090/hls/live/rioni.m3u8?checkedby:zaltv.co
 
 #EXTM3U
-#EXTINF:0 tvg-logo="https://zaltv.co/logo.jpg" group-title="Premium IPTV & ZalTV",Long term Adult IPTV &
+#EXTINF:0 tvg-logo="https://zaltv.co/logo.jpg" group-title="Premium ADULT",Long term Adult IPTV &
 https://zaltv.co/ads/in-app-ads.mp4
 #EXTINF:0,2 BY ZalTV.co
 http://nvid101.cdnii.com/2021/1/20211659-720p.mp4
