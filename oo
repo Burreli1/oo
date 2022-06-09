@@ -7827,8 +7827,8 @@ https://livestream.palitra.ge/hls/palitratv/index.m3u8?checkedby:zaltv.co
 #EXTINF:0 tvg-country="GE" tvg-logo="https://i.imgur.com/9ecTETD.png" group-title="Georgia",Rioni TV
 http://video.rionitv.com:9090/hls/live/rioni.m3u8?checkedby:zaltv.co
 
-
-#EXTINF:0 tvg-logo="https://zaltv.co/logo.jpg" group-title="Adult
+#EXTM3U
+#EXTINF:0 tvg-logo="https://zaltv.co/logo.jpg" group-title="Premium IPTV & ZalTV",Long term Adult IPTV &
 https://zaltv.co/ads/in-app-ads.mp4
 #EXTINF:0,2 BY ZalTV.co
 http://nvid101.cdnii.com/2021/1/20211659-720p.mp4
@@ -7888,5 +7888,4 @@ http://nvid101.cdnii.com/2021/1/20211661-720p.mp4
 http://pelicanhosting.xyz:80/tsbqvsqg/298gcXOmu1/482089
 #EXTINF:0,30 BY ZalTV.co
 http://nvid101.cdnii.com/2018/1/20181871-720p.mp4
-
 
