@@ -1,6 +1,5 @@
-IÀ#EXTINF:-1   group-title="******IPTV SHQIP AnnA******",
 #EXTM3U x-tvg-url="http://albepg.com/epg/guide.xml"
-#EXTINF:-1 tvg-id="" tvg-name="KOMBETARE & LOKALE",
+#EXTINF:-1 tvg-id="" tvg-name="▬ Albania [AL] ▬" tvg-logo="http://img.freeflagicons.com/thumb/glossy_wave_icon/albania/albania_640.png" group-title="KOMBETARE & LOKALE",▬ Albania [AL] ▬
 http://5.135.92.138:58143/out/u/409_1.m3u8
 #EXTINF:-1,AL: 8OVA Gjurme Shqipetare TV
 http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13782
@@ -102,7 +101,6 @@ http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/
 http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13664
 #EXTINF:-1,AL: Neser TV
 http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13666
-#EXTINF:-1 tvg-id="" tvg-name="****RTSH****
 #EXTINF:-1,AL: RTSH 1 HD
 http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13614
 #EXTINF:-1,AL: RTSH 2 HD
@@ -125,7 +123,6 @@ http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/
 http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13623
 #EXTINF:-1,AL: RTSH Shkodra
 http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13624
-#EXTINF:-1 tvg-id="" tvg-name="****Lajme****:
 #EXTINF:-1,AL: ABC
 http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13607
 #EXTINF:-1,AL: RTV Ora
@@ -151,7 +148,6 @@ http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/
 http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13678
 #EXTINF:-1,AL: Fax News
 http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13679
-#EXTINF:-1 tvg-id="" tvg-name="****Tring****
 #EXTINF:-1,AL: ART Prime
 http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13683
 #EXTINF:-1,AL: ART Episode
@@ -182,7 +178,6 @@ http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/
 http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13696
 #EXTINF:-1,AL: 24 Kitchen
 http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13697
-#EXTINF:-1 tvg-id="" tvg-name="****Femje****:
 #EXTINF:-1,AL: Bang Bang
 http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13699
 #EXTINF:-1,AL: Cufo
@@ -223,7 +218,6 @@ http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/
 http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13717
 #EXTINF:-1,AL: DisneyS
 http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13718
-#EXTINF:-1 tvg-id="" tvg-name="****Filma****:
 #EXTINF:-1,AL: T HD
 http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13720
 #EXTINF:-1,AL: Family HD
@@ -307,11 +301,11 @@ http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/
 #EXTINF:-1,AL: X Western HD
 http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13760
 #EXTINF:-1 tvg-id="" tvg-name="****Humor****:
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd
 #EXTINF:-1,AL: X Humor HD
 http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13761
 #EXTINF:-1,AL: Dark Stupcat HD
 http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2Ainah.K/166520
-#EXTINF:-1 tvg-id="" tvg-name="****Dark Kinema****:
 #EXTINF:-1,AL: Dark Gold 1 FHD
 http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2Ainah.K/166537
 #EXTINF:-1,AL: Dark Gold 2 FHD
@@ -356,7 +350,6 @@ http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/
 http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13772
 #EXTINF:-1,AL: Explorer Shkence
 http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13774
-#EXTINF:-1,AL:****Dokumentare****:
 #EXTINF:-1,AL: Explorer Natyra
 http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13775
 #EXTINF:-1,AL: Explorer Histori
@@ -387,8 +380,6 @@ http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/
 http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13789
 #EXTINF:-1,AL: Animal Planet
 http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13790
-
-#EXTINF:-1,AL:****Muzike****:
 #EXTINF:-1,AL: My Music
 http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13799
 #EXTINF:-1,AL: Melody TV
@@ -414,14 +405,12 @@ http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/
 http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13814
 #EXTINF:-1,Turbo Channel
 http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13815
-#EXTINF:-1,AL:****Islam****/
 #EXTINF:-1,Peace TV
 http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13817
 #EXTINF:-1,AL: RTV Pendimi HD
 http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13818
 #EXTINF:-1,AL: RTV Islam
 http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13819
-#EXTINF:-1,AL:****Sport****:
 #EXTINF:-1,AL: Kujtesa Sport 1
 http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13821
 #EXTINF:-1,AL: Kujtesa Sport 2
