@@ -1,6 +1,4 @@
-#EXTM3U x-tvg-url="http://albepg.com/epg/guide.xml"
-#EXTINF:-1 tvg-id="" tvg-name="▬ Albania [AL] ▬" tvg-logo="http://img.freeflagicons.com/thumb/glossy_wave_icon/albania/albania_640.png" group-title="KOMBETARE & LOKALE",▬ Albania [AL] ▬
-http://5.135.92.138:58143/out/u/409_1.m3u8
+
 #EXTINF:-1,AL: 8OVA Gjurme Shqipetare TV
 http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13782
 #EXTINF:-1,AL: Top Channel
