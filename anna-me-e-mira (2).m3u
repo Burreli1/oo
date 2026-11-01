@@ -1,233 +1,73 @@
-#EXTM3U 
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/497119506.jpg" group-title="AnnA IPTV", Klan TV HD
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/9454
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/497119505.jpg" group-title="AnnA IPTV", Klan TV 4k
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/3800
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/497957386.jpg" group-title="AnnA IPTV", Top Channel TV 4K
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/9457
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/498112584.jpg" group-title="AnnA IPTV", Klan Kosova FHD AL
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/4189
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/497119508.jpg" group-title="AnnA IPTV", RTK TV HD
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/9458
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/498112578.jpg" group-title="AnnA IPTV", RTK 1 TV HD
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/22814
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/497119513.jpg" group-title="AnnA IPTV", KTV  HD
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/9456
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/497119514.jpg" group-title="AnnA IPTV", RTV 21 HD
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/9451
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/497119515.jpg" group-title="AnnA IPTV", RTV 21 HD
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/3832
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/498112577.jpg" group-title="AnnA IPTV", T7 TV HD
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/20167
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/497119516.jpg" group-title="AnnA IPTV", Report TV HD
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/9366
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/497119517.jpg" group-title="AnnA IPTV", RTSH 24 News Satelit HD
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/20173
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/497119523.jpg" group-title="AnnA IPTV", Vizion Plus AL
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/4214
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/497119524.jpg" group-title="AnnA IPTV", RTSH 2 HD
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/19480
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/497119524.jpg" group-title="AnnA IPTV", Klan Plus FHD
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/7074
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/497119527.jpg" group-title="AnnA IPTV", ATV FHD AL
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/73298
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/497119528.jpg" group-title="AnnA IPTV", Klan Maqedonia TV HD
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/27538
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/497119529.jpg" group-title="AnnA IPTV", First Channel TV HD
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/66309
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/497119530.jpg" group-title="AnnA IPTV", News 24 TV
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/3795
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/497119530.jpg" group-title="AnnA IPTV", Ora News TV HD
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/7066
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/497119532.jpg" group-title="AnnA IPTV", Muzike Popullore HD
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/115140
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/497119573.jpg" group-title="AnnA IPTV", BBF Beats TV HD
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/3810
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/497119578.jpg" group-title="AnnA IPTV", Alb Music TV HD
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/4235
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/497119519.jpg" group-title="AnnA IPTV", Folk Muzike HD
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/6260
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/497119602.jpg" group-title="AnnA IPTV", My Music TV HD
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/7070
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/497119595.jpg" group-title="AnnA IPTV", Klan Music
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/6257
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/497119653.jpg" group-title="AnnA IPTV", Extrem Music Hits TV HD
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/22800
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/497119533.jpg" group-title="AnnA IPTV", Alsat TV HD
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/6259
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/497119535.jpg" group-title="AnnA IPTV", ABC News TV HD
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/6263
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/497119536.jpg" group-title="AnnA IPTV", Zeri i Kosoves TV HD
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/17183
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/497119539.jpg" group-title="AnnA IPTV", ARTA TV HD
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/21901
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/497119540.jpg" group-title="AnnA IPTV", ORA News TV
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/7066
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/497119541.jpg" group-title="AnnA IPTV", RTSH3 TV HD
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/20168
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/497119542.jpg" group-title="AnnA IPTV", MitrovicaTV HD
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/12037
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/497119541.jpg" group-title="AnnA IPTV", Top News TV FHD
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/4209
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/497119542.jpg" group-title="AnnA IPTV", Syri  TV Hd
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/16571
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/497119545.jpg" group-title="AnnA IPTV", Vizion-Plus TV HD
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/4214
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/497119544.jpg" group-title="AnnA IPTV", Koha tv
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/19145
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/497119548.jpg" group-title="AnnA IPTV", TV Femije Bang Bang 1 FHD
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/7062
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/497119549.jpg" group-title="AnnA IPTV", NETFLIX Femije TV
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/8410
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/497119547.jpg" group-title="AnnA IPTV", NETFLIX Mimi TV Femije
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/8773
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/497119551.jpg" group-title="AnnA IPTV", Junior Tv
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/17182
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/497119549.jpg" group-title="AnnA IPTV", NETFLIX Femije Nick Jr
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/4215
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/497119553.jpg" group-title="AnnA IPTV", Cufo Femije TV HD
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/16804
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/497119554.jpg" group-title="AnnA IPTV", Tring Tring Femije TV HD
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/7063
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/497119560.jpg" group-title="AnnA IPTV", Film Aksion TV FHD
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/3820
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/497119581.jpg" group-title="AnnA IPTV", Euro Film TV HD
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/20191
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/497119583.jpg" group-title="AnnA IPTV", Explorer Natyra TV HD
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/4202
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/497119582.jpg" group-title="AnnA IPTV", Explorer Histori TV HD
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/9462
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/497119584.jpg" group-title="AnnA IPTV", Explorer Shkence TV HD
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/22796
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/497119564.jpg" group-title="AnnA IPTV", Film Gold 1 TV HD
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/15778
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/497119565.jpg" group-title="AnnA IPTV", Film Gold 2 TV HD
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/15779
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/497119566.jpg" group-title="AnnA IPTV", Film Gold 3 TV HD
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/16814
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/498112586.jpg" group-title="AnnA IPTV", Extrem Thriller TV HD
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/16815
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/498112587.jpg" group-title="AnnA IPTV", Extrem Romance TV HD
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/28175
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/498112588.jpg" group-title="AnnA IPTV", Extrem Action AL
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/28177
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/498112589.jpg" group-title="AnnA IPTV", Extrem Drama TV HD
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/3818
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/498112590.jpg" group-title="AnnA IPTV", Extrem Family TV HD
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/4204
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/497119649.jpg" group-title="AnnA IPTV", Explorem Histori TV HD
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/9462
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/497119651.jpg" group-title="AnnA IPTV", Extrem Western TV HD
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/12031
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/497119567.jpg" group-title="AnnA IPTV", Film Gold 4 TV HD
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/12030
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/497119593.jpg" group-title="AnnA IPTV", NETFLIX Action HD AL
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/8772
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/497119594.jpg" group-title="AnnA IPTV", NETFLIX SciFi HD AL
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/22787
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/497119561.jpg" group-title="AnnA IPTV", NETFLIX Filma 24 HD
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/28175
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/497119563.jpg" group-title="AnnA IPTV", NETFLIX CINEMAX TV HD
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/28177
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/497119587.jpg" group-title="AnnA IPTV", NETFLIX Kinema4 HD
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/3818
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/497119619.jpg" group-title="AnnA IPTV", NETFLIX Comedy TV FHD
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/3821
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/497119615.jpg" group-title="AnnA IPTV", NETFLIX Novela  HD
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/20191
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/497119614.jpg" group-title="AnnA IPTV", Netflix Komedi TV FHD
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/4193
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/497119599.jpg" group-title="AnnA IPTV", NETFLIX Drame FHD
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/12029
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/497119613.jpg" group-title="AnnA IPTV", NETFLIX Aksion  TV HD
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/9134
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/497119568.jpg" group-title="AnnA IPTV", Film Autor TV HD
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/7055
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/497119572.jpg" group-title="AnnA IPTV", Tring Word  HD
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/17168
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/497119580.jpg" group-title="AnnA IPTV", KANAL D Drama TV HD
-http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/157.ts?checkedby:iptvcat.com
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/497119585.jpg" group-title="AnnA IPTV", EuroNews Albania TV HD
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/34755
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/497119611.jpg" group-title="AnnA IPTV", Scan TV FHD
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/8777
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/497119612.jpg" group-title="AnnA IPTV", Shenja TV HD
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/9399
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/497119616.jpg" group-title="AnnA IPTV", Tring Smile TV HD
-http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/96.ts?checkedby:iptvcat.com
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/497119617.jpg" group-title="AnnA IPTV", RTV21TV HD
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/9451
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/497119618.jpg" group-title="AnnA IPTV", Star Shkodra HD TV
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/8774
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/497119620.jpg" group-title="AnnA IPTV", TRING_MUSE TV HD
-http://smartestv.vip:2095/ABHVYOP/2387998104/37275?checkedby:iptvcat.com
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/497119621.jpg" group-title="AnnA IPTV", TRING_PLANET TV HD
-http://smartestv.vip:2095/ABHVYOP/2387998104/539?checkedby:iptvcat.com
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/497119622.jpg" group-title="AnnA IPTV", TV Dielli TV HD
-http://62.210.152.92:25461/kanale2/Ass/53?checkedby:iptvcat.com
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/497119623.jpg" group-title="AnnA IPTV", TV Dukagjini TV HD
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/4236
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/497119624.jpg" group-title="AnnA IPTV", TV Mitrovica TV HD
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/12037
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/497119625.jpg" group-title="AnnA IPTV", TV Opoja TV HD
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/16475
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/497119627.jpg" group-title="AnnA IPTV", TV Prizreni
-http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/10073?checkedby:iptvcat.com
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/497119628.jpg" group-title="AnnA IPTV", Kanali 10 TV HD
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/43387
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/497119629.jpg" group-title="AnnA IPTV", kanali7HD
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/19544
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/497119630.jpg" group-title="AnnA IPTV", TV LLapiTV HD
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/93094
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/497119633.jpg" group-title="AnnA IPTV", Tring Action HD
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/4223
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/497119634.jpg" group-title="AnnA IPTV", Tring Comedy TV HD
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/2054
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/497119636.jpg" group-title="AnnA IPTV", Tring Family TV HD
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/4219
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826663/497119641.jpg" group-title="AnnA IPTV", Tring Life TV HD
-://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/4224
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826664/497119654.jpg" group-title="Sport IPTV OLTI", Super Sport 1 HD
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/4198
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826664/497119655.jpg" group-title="Sport IPTV OLTI", Super Sport3 HD
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/22808
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826664/497119656.jpg" group-title="Sport IPTV OLTI", Kujtesa Sport 1 HD AL
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/9150
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826664/497119657.jpg" group-title="Sport IPTV OLTI", Kujtesa Sport 2 HD AL
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/9151
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826664/497119658.jpg" group-title="Sport IPTV OLTI", Kujtesa Sport 3
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/9152
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826664/497119659.jpg" group-title="Sport IPTV OLTI", Kujtesa Sport 4 HD AL
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/9153
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826664/497119660.jpg" group-title="Sport IPTV OLTI", Supersport 1 HD AL
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/22807
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826664/497119661.jpg" group-title="Sport IPTV OLTI", Supersport 2 HD AL
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/22810
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826664/497119662.jpg" group-title="Sport IPTV OLTI", Supersport 3 FHD AL
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/4201
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826664/497119663.jpg" group-title="Sport IPTV OLTI", Supersport 4 FHD AL
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/22811
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826664/497119665.jpg" group-title="Sport IPTV OLTI", Tring Sport 1 HD
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/8077
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826664/497119666.jpg" group-title="Sport IPTV OLTI", Tring Sport 1 HD AL
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/8078
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826664/497119667.jpg" group-title="Sport IPTV OLTI", Tring Sport 2 HD
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/9373
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826664/497119668.jpg" group-title="Sport IPTV OLTI", Tring Sport 2 HD AL
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/8079
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826664/497119669.jpg" group-title="Sport IPTV OLTI", Tring Sport 3 HD
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/15635
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826664/497119670.jpg" group-title="Sport IPTV OLTI", Tring Sport 3 HD AL
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/8080
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/866aa300-8c67-11ec-9280-c5ea573b193a/2826664/497119671.jpg" group-title="Sport IPTV OLTI", Tring Sport News
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/9153
-#EXTINF: -1 group-title="Sport IPTV OLTI", art sport 1
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/28182
-#EXTINF: -1 group-title="Sport IPTV OLTI", art sport 2
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/28183
-#EXTINF: -1 group-title="Sport IPTV OLTI", art sport 3 
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/28184
-#EXTINF: -1 group-title="Sport IPTV OLTI", art sport 4
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/89864
-#EXTINF: -1 group-title="Sport IPTV OLTI", art sport 5
-http://45.12.1.14:80/rsuxwnUKR0fP90/6AGMml84/89865
+#EXTM3U
+#EXTINF: -1 tvg-id="RTK1.ch" tvg-name="AL: RTK"
+tvg- logo="http://84.22.62.251:8822/LOG0/rtk.png" group-title="ALL", AL:
+RTK
+http://iptv3.kbc.al:25461/nazmije.tahiri/NAMHGST4LD/1
+#EXTINF: -1 tvg-id="RTV.21.al" tvg-name="AL:
+RTV 21 HD"
+tvg-logo="http://84.22.62.251:8822/LOG0/rtv-21-hd.png" group-title="ALL", AL: RTV 21
+http://iptv3.kbc.al:25461/nazmije.tahiri/NAMHGST4LD/2
+#EXTINF: -1 tvg-id="KTV.al"
+tvg-name="AL: KTV"
+tvg- logo="http://84.22.62.251:8822/LOG0/ktv-hd.png"
+group-title="ALL", AL: KTV
+http://iptv3.kbc.al:25461/nazmije.tahiri/NAMHGST4LD/3
+#EXTINF: -1 tvg-id="Klan.Kosova.al" tvg-name="AL: Klan Kosova"
+tvg-logo="http://84.22.62.251:8822/LOGO/klan-kosova.png" group-title="ALL", AL: Klan
+Kosova
+http://iptv3.kbc.al:25461/nazmije.tahiri/NAMHGST4LD/4
+#EXTINF: -1 tvg-id="Alsat.M.al"
+tvg-name="AL: Alsat M"
+tvg - logo="http://84.22.62.251:8822/LOGO/alsat-m.png"
+group-title="ALL",AL: Alsat M
+http://iptv3.kbc.al:25461/nazmije.tahiri/NAMHGST4LD/5
+#EXTINF: -1 tvg-id="TV.Klan.ch"
+tvg-name="AL: Klan TV HD"
+tvg- logo="http://84.22.62.251:8822/LOG0/tv-klan.png" group-title="ALL",AL: Klan TV
+HD
+http://iptv3.kbc.al:25461/nazmije.tahiri/NAMHGST4LD/6
+#EXTINF: -1 tvg-id="TOP.Channel.al" tvg-name="AL: Top Channel HD" tvg- logo="http://84.22.62.251:8822/LOGO/top-channel.png" group-title="ALL", AL: Top
+Channel HD
+http://iptv3.kbc.al:25461/nazmije.tahiri/NAMHGST4LD/7
+#EXTINF:-1 tvg-id="T7.al" tvg-name="AL:
+T7 HD"
+tvg-logo="http://84.22.62.251:8822/LOGO/tv-7.png" group-title="ALL", AL: T7 HD
+http://iptv3.kbc.al:25461/nazmije.tahiri/NAMHGST4LD/8
+#EXTINF: -1 tvg-id="DTV.al"
+tvg-name="AL:DTV"
+tvg-logo="http://84.22.62.251:8822/LOG0/dtv-al.png" group-title="ALL", AL:DTV
+http://iptv3.kbc.al:25461/nazmije.tahiri/NAMHGST4LD/464
+#EXTINF: -1 tvg-id="Kanal.10.al"
+tvg-name="AL:
+Kanal 10"
+tvg-logo="http://84.22.62.251:8822/LOG0/kanal-10.png" group-title="ALL", AL: Kanal
+10
+http://iptv3.kbc.al:25461/nazmije.tahiri/NAMHGST4LD/10
+#EXTINF: -1 tvg-id="TOP.News.al"
+tvg-name="AL: Top News"
+tvg-logo="http://84.22.62.251:8822/LOG0/top-news.png" group-title="ALL", AL: Top
+News
+http://iptv3.kbc.al:25461/nazmije.tahiri/NAMHGST4LD/13
+#EXTINF: -1 tvg-id="TV.Dukagjini.al" tvg-name="AL: TV Dukagjini"
+tvg-logo="http://84.22.62.251:8822/LOGO/dukagjini-tv.png" group-title="ALL", AL: TV
+Dukagjini
+http://iptv3.kbc.al:25461/nazmije.tahiri/NAMHGST4LD/11
+#EXTINF: -1 tvg-id="ATV.al"
+tvg-name="AL: ATV"
+tvg - logo="http://84.22.62.251:8822/LOGO/atv-al.png"
+group-title="ALL", AL: ATV
+http://iptv3.kbc.al:25461/nazmije.tahiri/NAMHGST4LD/233
+#EXTINF: -1 tvg-id="TeVe.1.al" tvg-name="AL:Tëvë 1"
+tvg-logo="ht tp://84.22.62.251:8822/LOGO/teve-1.png" group-title="ALL", AL: Tëvë 1
+http://iptv3.kbc.al:25461/nazmije.tahiri/NAMHGST4LD/355
+#EXTINF: -1 tvg-id=""
+tvg-name="AL: TV Dielli"
+tvg- logo="http://84.22.62.251:8822/LOGO/dielli-tv.png" group-title="ALL",AL: TV
+Dielli
+nuco://10cvs.koc.al:25401/nazm1]e.can1r1/NAMHoSl4L0/-
+#EXTINF: -1 tvg-id="Arta.News.ch"
+tvg-name="AL: Arta News HD"
+tvg- logo="http://84.22.62.251:8822/LOGO/arta-hd.png"
+group-title="ALL",AL: Arta
+News HU
+http://iptv3.kbc.al:25461/nazmije.tahiri/NAMHGST4LD/12
